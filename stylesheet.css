@@ -1,0 +1,50 @@
+header {
+  font-weight: bold;
+  color: navy;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: red;
+  font-size: 30px;
+}
+h3 {
+  color: black;
+}
+li {
+  font-weight: bold;
+  border-style: solid;
+  width: 180px;
+}
+img {
+  width: 200px; height: 225px;
+    }
+img {
+  float: right;
+}
+footer {
+  font-size: 10px;
+      }
+.DataQ {
+  font-family : sans-serif;
+  font-size : 18px;
+  width : 300px;
+  border : black solid 10px;
+  padding : 35px;
+  margin : 20px;
+  background-color: #ffffff;
+  }
+.links
+    {
+      font-style: italic;
+      font-size: 15px;
+      width : 300px;
+      border : black solid 10px;
+      padding : 35px;
+      margin : 15px;
+      background-color: #ffffff;
+          }
+body {
+background-color : #CCFFE5;
+}
