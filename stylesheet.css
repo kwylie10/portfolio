@@ -2,18 +2,19 @@
   font-family: sans-serif;
   padding: 3px;
   font: 10px;
+
 }
 .Title1 {
     font-size: 20px;
     color: white;
-    width; 300px;
-    margin: 20px 15px 20px 15px;
     position: absolute;
+    width: 300px;
     z-index: 1;
         }
 .bannerimg {
-  position:absolute;
-  width: 80%;
+  position: absolute;
+  margin-top: 10%;
+  height: 95px;
   z-index: -1;
   }
 .introparagraph {
