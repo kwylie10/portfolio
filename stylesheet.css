@@ -1,78 +1,71 @@
+  @import url('https://fonts.googleapis.com/css2?family=Lora&family=Raleway:wght@500&display=swap');
 * {
-  font-family: sans-serif;
-  padding: 3px;
-  font: 10px;
-
-}
-.Title1 {
-    font-size: 20px;
-    color: white;
-    position: absolute;
-    width: 300px;
-    z-index: 1;
-        }
-.bannerimg {
-  position: absolute;
-  margin-top: 10%;
-  height: 95px;
-  z-index: -1;
-  }
-.introparagraph {
-    font-size: 13px;
-      }
-.Menuheader {
-  color: white;
-  text-align: left;
-  padding-right: 5px;
-  font-size: 13px;
-  }
-h2 {
-  font-size: 1rem;
-  }
-.sideinfo {
-font-size: 13px;
-float: right;
-width: 30%;
-padding: 10px;
-}
-a {
-  font-size: 13px;
-  color: #00CCCC;
-  }
-.story {
-  font-size: 13px;
-  color: #00CCCC;
-  margin-left: 30px;
-}
-.storysection {
-  font-size: 13px;
-  }
-h3 {
-  font-size: 13px;
-  color: white;
-  text-align:center;
-}
-.Rates {
-    font-weight: bold;
-    font-size: 12px;
-  }
-.footerpic {
-  position: absolute;
-  width: 95%;
-  margin-bottom: 10%;
-  z-index: -1;
- }
- .navbar {
-   font-size: 13px;
-   color: white;
-   text-align: center;
- }
- .Menufooter {
-   color: white;
-   align-content: center;
-   z-index: 1;
+  text-align: center;
      }
- .bottomcopyright {
-    color: white;
-    text-align: center;
-   }
+i {
+  color: #0103ab;
+  padding: 20px;
+  text-align: center;
+  font-size: 30px;
+  width: 50px;
+}
+
+header {
+  font-weight: bold;
+  color: navy;
+  }
+.box {
+  height: 200px;
+  width: 200px;
+  border: 5px solid navy;
+  background: #d9d9d9;
+  color: navy;
+  }
+.container {
+    display: flex;
+    justify-content: center;
+      }
+h1 {
+  color: blue;
+  font-family: 'Lora', serif;
+  font-weight: 700;
+}
+h2 {
+  color: Gray;
+  font-family: 'Lora',serif;
+  font-size: 30px;
+}
+h3 {
+  color: black;
+}
+ul {
+  font-family:'Raleway'serif;
+  border-style: solid;
+  width: 180px;
+}
+.list2  {
+  margin-left: 40%
+  }
+ p {
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+ }
+.box2  {
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 300px;
+  width: 250px;
+  border: 5px solid navy;
+  background: #d9d9d9;
+  color: navy;
+    }
+.container2 {
+  display: flex;
+  justify-content: center;
+        }
+.header-image {
+  position: relative;
+  top: 10px;
+  z-index: -1;
+    }
